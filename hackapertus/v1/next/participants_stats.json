@@ -1,0 +1,206 @@
+{
+ "schema_version": 1,
+ "generated_at": "2026-11-08T12:22:13Z",
+ "headline": {
+  "registered": 919,
+  "countries": 92,
+  "cantons": 15,
+  "built_before_pct": 10.6
+ },
+ "built_before": {
+  "swiss_pct": 16.5,
+  "intl_pct": 8.2
+ },
+ "countries": [
+  {
+   "name": "Switzerland",
+   "count": 268
+  },
+  {
+   "name": "India",
+   "count": 201
+  },
+  {
+   "name": "Germany",
+   "count": 62
+  },
+  {
+   "name": "United States",
+   "count": 43
+  },
+  {
+   "name": "Italy",
+   "count": 25
+  },
+  {
+   "name": "France",
+   "count": 20
+  },
+  {
+   "name": "Morocco",
+   "count": 19
+  },
+  {
+   "name": "Nigeria",
+   "count": 19
+  },
+  {
+   "name": "Pakistan",
+   "count": 19
+  },
+  {
+   "name": "Indonesia",
+   "count": 18
+  },
+  {
+   "name": "China",
+   "count": 14
+  },
+  {
+   "name": "Spain",
+   "count": 14
+  },
+  {
+   "name": "Not given",
+   "count": 11
+  },
+  {
+   "name": "Türkiye",
+   "count": 11
+  },
+  {
+   "name": "Singapore",
+   "count": 10
+  },
+  {
+   "name": "United Kingdom",
+   "count": 10
+  },
+  {
+   "name": "Algeria",
+   "count": 8
+  },
+  {
+   "name": "Philippines",
+   "count": 8
+  },
+  {
+   "name": "Canada",
+   "count": 7
+  },
+  {
+   "name": "Bangladesh",
+   "count": 5
+  },
+  {
+   "name": "Egypt",
+   "count": 5
+  },
+  {
+   "name": "Japan",
+   "count": 5
+  },
+  {
+   "name": "South Africa",
+   "count": 5
+  },
+  {
+   "name": "Other",
+   "count": 112
+  }
+ ],
+ "cantons": [
+  {
+   "code": "ZH",
+   "count": 83
+  },
+  {
+   "code": "BE",
+   "count": 18
+  },
+  {
+   "code": "VD",
+   "count": 17
+  },
+  {
+   "code": "GE",
+   "count": 10
+  },
+  {
+   "code": "SG",
+   "count": 8
+  },
+  {
+   "code": "AG",
+   "count": 6
+  },
+  {
+   "code": "BS",
+   "count": 6
+  },
+  {
+   "code": "TI",
+   "count": 6
+  },
+  {
+   "code": "Other",
+   "count": 14
+  }
+ ],
+ "job_specialty": [
+  {
+   "name": "Developer",
+   "count": 447
+  },
+  {
+   "name": "Data science & AI",
+   "count": 196
+  },
+  {
+   "name": "Not given",
+   "count": 141
+  },
+  {
+   "name": "Business & product",
+   "count": 70
+  },
+  {
+   "name": "Design",
+   "count": 20
+  },
+  {
+   "name": "Other",
+   "count": 45
+  }
+ ],
+ "channels": [
+  {
+   "name": "Devpost",
+   "count": 315
+  },
+  {
+   "name": "Friend",
+   "count": 182
+  },
+  {
+   "name": "University / Professor",
+   "count": 120
+  },
+  {
+   "name": "Not given",
+   "count": 118
+  },
+  {
+   "name": "LinkedIn",
+   "count": 50
+  },
+  {
+   "name": "Other",
+   "count": 134
+  }
+ ],
+ "solo_team": {
+  "solo": 498,
+  "team": 405
+ }
+}
