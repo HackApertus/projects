@@ -1,0 +1,196 @@
+{
+ "schema_version": 1,
+ "generated_at": "2026-11-03T14:47:08Z",
+ "headline": {
+  "projects": 7,
+  "submissions": 8,
+  "builders": 9,
+  "countries": 5,
+  "datasets": 1,
+  "demos": 4,
+  "demos_embeddable": 3,
+  "demos_or_datasets": 5,
+  "built_before_pct": 48.9,
+  "challenges": 5
+ },
+ "events": [
+  {
+   "id": "online-2026",
+   "name": "Online Hackathon",
+   "format": "online",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "url": "https://hackapertus.ch/together",
+   "count": 7
+  },
+  {
+   "id": "liebefeld-2026",
+   "name": "Bern/Liebefeld",
+   "format": "onsite",
+   "city": "Liebefeld",
+   "lat": 46.931,
+   "lon": 7.417,
+   "url": null,
+   "count": 0
+  },
+  {
+   "id": "zurich-2026",
+   "name": "Zurich",
+   "format": "onsite",
+   "city": "Zurich",
+   "lat": 47.39,
+   "lon": 8.515,
+   "url": null,
+   "count": 0
+  },
+  {
+   "id": "basel-2026",
+   "name": "Basel",
+   "format": "onsite",
+   "city": "Basel",
+   "lat": 47.535,
+   "lon": 7.612,
+   "url": null,
+   "count": 0
+  },
+  {
+   "id": "stgallen-2027",
+   "name": "St. Gallen",
+   "format": "onsite",
+   "city": "St. Gallen",
+   "lat": 47.431,
+   "lon": 9.374,
+   "url": null,
+   "count": 0
+  }
+ ],
+ "by_challenge": [
+  {
+   "subtrack": "1A",
+   "challenge": "Red-teaming",
+   "partner": null,
+   "count": 1
+  },
+  {
+   "subtrack": "1B",
+   "challenge": "Input Adaptation",
+   "partner": null,
+   "count": 1
+  },
+  {
+   "subtrack": "2A",
+   "challenge": "OST",
+   "partner": "OST",
+   "count": 2
+  },
+  {
+   "subtrack": "2A",
+   "challenge": "ZHAW",
+   "partner": "ZHAW",
+   "count": 1
+  },
+  {
+   "subtrack": "2B",
+   "challenge": "Own Project",
+   "partner": null,
+   "count": 2
+  }
+ ],
+ "model_by_track": [
+  {
+   "subtrack": "1A",
+   "8B": 0,
+   "70B": 0,
+   "both": 1
+  },
+  {
+   "subtrack": "1B",
+   "8B": 0,
+   "70B": 0,
+   "both": 1
+  },
+  {
+   "subtrack": "2A",
+   "8B": 2,
+   "70B": 1,
+   "both": 0
+  },
+  {
+   "subtrack": "2B",
+   "8B": 0,
+   "70B": 2,
+   "both": 0
+  }
+ ],
+ "themes": [
+  {
+   "name": "Democracy & parliament",
+   "count": 3
+  },
+  {
+   "name": "Benchmark & eval",
+   "count": 2
+  },
+  {
+   "name": "Agents & tools",
+   "count": 1
+  },
+  {
+   "name": "Fine-tuning",
+   "count": 1
+  },
+  {
+   "name": "Red-teaming & safety",
+   "count": 1
+  },
+  {
+   "name": "Robotics",
+   "count": 1
+  },
+  {
+   "name": "Voice & speech",
+   "count": 1
+  }
+ ],
+ "languages": [
+  {
+   "name": "German",
+   "count": 1
+  },
+  {
+   "name": "Romansh",
+   "count": 1
+  },
+  {
+   "name": "Swiss German",
+   "count": 1
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2026-10-02",
+   "count": 1
+  },
+  {
+   "date": "2026-10-03",
+   "count": 2
+  },
+  {
+   "date": "2026-10-06",
+   "count": 1
+  },
+  {
+   "date": "2026-10-07",
+   "count": 1
+  },
+  {
+   "date": "2026-10-08",
+   "count": 1
+  },
+  {
+   "date": "2026-10-09",
+   "count": 1
+  }
+ ]
+}

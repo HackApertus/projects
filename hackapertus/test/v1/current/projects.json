@@ -1,0 +1,339 @@
+{
+ "schema_version": 1,
+ "generated_at": "2026-11-03T14:47:08Z",
+ "projects": [
+  {
+   "id": "recTEST00000000I1",
+   "slug": "fact-checker-u",
+   "project_name": "Fact Checker Ü",
+   "team_name": "Checkers",
+   "summary": "Natural language inference on voting booklets.",
+   "event": {
+    "id": "online-2026",
+    "name": "Online Hackathon",
+    "format": "online",
+    "city": null
+   },
+   "subtrack": "2A",
+   "challenge": "OST",
+   "challenge_partner": "OST",
+   "track_label": "Track 2A - OST",
+   "model_size": "70B",
+   "languages": [],
+   "themes": [
+    "Democracy & parliament"
+   ],
+   "team_size": 1,
+   "links": {
+    "repo": "https://github.com/checkers-test/fact-checker",
+    "demo": null,
+    "demo_embed": null,
+    "demo_host": null,
+    "dataset": null,
+    "hf_model": null,
+    "report": "reports/fact-checker-u.pdf"
+   },
+   "has_demo": false,
+   "demo_embeddable": false,
+   "has_dataset": false,
+   "has_hf_model": false,
+   "has_report": true,
+   "checks": {
+    "public_repo": null,
+    "licence": null,
+    "setup_files": null,
+    "report_attached": true
+   },
+   "award": {
+    "label": "OST Partner Award",
+    "reason": "Best fact checking."
+   },
+   "submitted_at": "2026-10-09T08:00:00.000Z",
+   "updated_at": "2026-10-09T08:00:00.000Z"
+  },
+  {
+   "id": "recTEST00000000G1",
+   "slug": "vote-helper-0000g1",
+   "project_name": "Vote Helper",
+   "team_name": "Other Team",
+   "summary": "Another vote helper, unrelated to the first.",
+   "event": {
+    "id": "online-2026",
+    "name": "Online Hackathon",
+    "format": "online",
+    "city": null
+   },
+   "subtrack": "2B",
+   "challenge": "Own Project",
+   "challenge_partner": null,
+   "track_label": "Track 2B - Own Project",
+   "model_size": "70B",
+   "languages": [],
+   "themes": [
+    "Democracy & parliament"
+   ],
+   "team_size": 1,
+   "links": {
+    "repo": "https://github.com/otherperson/vote-helper-2",
+    "demo": "https://drive.google.com/file/d/xyz/view",
+    "demo_embed": null,
+    "demo_host": "drive",
+    "dataset": null,
+    "hf_model": null,
+    "report": null
+   },
+   "has_demo": true,
+   "demo_embeddable": false,
+   "has_dataset": false,
+   "has_hf_model": false,
+   "has_report": false,
+   "checks": {
+    "public_repo": null,
+    "licence": null,
+    "setup_files": null,
+    "report_attached": false
+   },
+   "award": null,
+   "submitted_at": "2026-10-07T08:00:00.000Z",
+   "updated_at": "2026-10-07T08:00:00.000Z"
+  },
+  {
+   "id": "recTEST0000000B02",
+   "slug": "org-embodied",
+   "project_name": "Org Embodied",
+   "team_name": "Org Team",
+   "summary": "Jailbreak benchmark for embodied agents.",
+   "event": {
+    "id": "online-2026",
+    "name": "Online Hackathon",
+    "format": "online",
+    "city": null
+   },
+   "subtrack": "1A",
+   "challenge": "Red-teaming",
+   "challenge_partner": null,
+   "track_label": "Track 1A - Red-teaming",
+   "model_size": "both",
+   "languages": [],
+   "themes": [
+    "Benchmark & eval",
+    "Red-teaming & safety",
+    "Agents & tools"
+   ],
+   "team_size": 1,
+   "links": {
+    "repo": "https://github.com/orgs/DemoOrg/repositories",
+    "demo": null,
+    "demo_embed": null,
+    "demo_host": null,
+    "dataset": null,
+    "hf_model": null,
+    "report": "reports/org-embodied.pdf"
+   },
+   "has_demo": false,
+   "demo_embeddable": false,
+   "has_dataset": false,
+   "has_hf_model": false,
+   "has_report": true,
+   "checks": {
+    "public_repo": null,
+    "licence": null,
+    "setup_files": null,
+    "report_attached": true
+   },
+   "award": null,
+   "submitted_at": "2026-10-03T11:00:00.000Z",
+   "updated_at": "2026-10-03T11:00:00.000Z"
+  },
+  {
+   "id": "recTEST00000000H1",
+   "slug": "rumantsch-data-b-set-b",
+   "project_name": "Rumantsch Data <b>Set</b>",
+   "team_name": "Lingua",
+   "summary": "<script>alert('x')</script> A Romansh question answering dataset for fine-tuning with LoRA.",
+   "event": {
+    "id": "online-2026",
+    "name": "Online Hackathon",
+    "format": "online",
+    "city": null
+   },
+   "subtrack": "1B",
+   "challenge": "Input Adaptation",
+   "challenge_partner": null,
+   "track_label": "Track 1B - Input Adaptation",
+   "model_size": "both",
+   "languages": [
+    "Romansh"
+   ],
+   "themes": [
+    "Fine-tuning"
+   ],
+   "team_size": 2,
+   "links": {
+    "repo": "https://github.com/lingua-test/romansh-data",
+    "demo": null,
+    "demo_embed": null,
+    "demo_host": "youtube",
+    "dataset": "https://huggingface.co/datasets/lingua-test/romansh-qa",
+    "hf_model": null,
+    "report": null
+   },
+   "has_demo": false,
+   "demo_embeddable": false,
+   "has_dataset": true,
+   "has_hf_model": false,
+   "has_report": false,
+   "checks": {
+    "public_repo": null,
+    "licence": null,
+    "setup_files": null,
+    "report_attached": false
+   },
+   "award": null,
+   "submitted_at": "2026-10-08T08:00:00.000Z",
+   "updated_at": "2026-10-08T08:00:00.000Z"
+  },
+  {
+   "id": "recTEST00000000A1",
+   "slug": "vote-helper",
+   "project_name": "Vote Helper",
+   "team_name": "Team Fictional",
+   "summary": "Synthetic update [name removed]: this description was refreshed neew.",
+   "event": {
+    "id": "online-2026",
+    "name": "Online Hackathon",
+    "format": "online",
+    "city": null
+   },
+   "subtrack": "2A",
+   "challenge": "OST",
+   "challenge_partner": "OST",
+   "track_label": "Track 2A - OST",
+   "model_size": "8B",
+   "languages": [],
+   "themes": [
+    "Democracy & parliament"
+   ],
+   "team_size": 3,
+   "links": {
+    "repo": "https://github.com/testorg/Vote-Helper",
+    "demo": "https://youtu.be/AAAAAAAAAA2",
+    "demo_embed": "https://www.youtube-nocookie.com/embed/AAAAAAAAAA2",
+    "demo_host": "youtube",
+    "dataset": null,
+    "hf_model": null,
+    "report": "reports/vote-helper.pdf"
+   },
+   "has_demo": true,
+   "demo_embeddable": true,
+   "has_dataset": false,
+   "has_hf_model": false,
+   "has_report": true,
+   "checks": {
+    "public_repo": null,
+    "licence": null,
+    "setup_files": null,
+    "report_attached": true
+   },
+   "award": null,
+   "submitted_at": "2026-10-02T09:00:00.000Z",
+   "updated_at": "2026-10-05T09:00:00.000Z"
+  },
+  {
+   "id": "recTEST00000000F1",
+   "slug": "see-it-pick-it",
+   "project_name": "See It Pick It",
+   "team_name": null,
+   "summary": "A robot arm that picks objects named in Swiss German.",
+   "event": {
+    "id": "online-2026",
+    "name": "Online Hackathon",
+    "format": "online",
+    "city": null
+   },
+   "subtrack": "2A",
+   "challenge": "ZHAW",
+   "challenge_partner": "ZHAW",
+   "track_label": "Track 2A - ZHAW",
+   "model_size": "8B",
+   "languages": [
+    "German",
+    "Swiss German"
+   ],
+   "themes": [
+    "Robotics"
+   ],
+   "team_size": null,
+   "links": {
+    "repo": "https://github.com/robotfan/see-it-pick-it/tree/main/src",
+    "demo": "https://vimeo.com/987654321/abcdef1234",
+    "demo_embed": "https://player.vimeo.com/video/987654321?h=abcdef1234",
+    "demo_host": "vimeo",
+    "dataset": null,
+    "hf_model": null,
+    "report": "reports/see-it-pick-it.pdf"
+   },
+   "has_demo": true,
+   "demo_embeddable": true,
+   "has_dataset": false,
+   "has_hf_model": false,
+   "has_report": true,
+   "checks": {
+    "public_repo": null,
+    "licence": null,
+    "setup_files": null,
+    "report_attached": true
+   },
+   "award": null,
+   "submitted_at": "2026-10-06T08:00:00.000Z",
+   "updated_at": "2026-10-06T08:00:00.000Z"
+  },
+  {
+   "id": "recTEST0000000B01",
+   "slug": "org-voice",
+   "project_name": "Org Voice",
+   "team_name": "Org Team",
+   "summary": "Org Voice reads public notices aloud in four languages.",
+   "event": {
+    "id": "online-2026",
+    "name": "Online Hackathon",
+    "format": "online",
+    "city": null
+   },
+   "subtrack": "2B",
+   "challenge": "Own Project",
+   "challenge_partner": null,
+   "track_label": "Track 2B - Own Project",
+   "model_size": "70B",
+   "languages": [],
+   "themes": [
+    "Benchmark & eval",
+    "Voice & speech"
+   ],
+   "team_size": 1,
+   "links": {
+    "repo": "https://github.com/orgs/DemoOrg/repositories",
+    "demo": "https://vimeo.com/123456789",
+    "demo_embed": "https://player.vimeo.com/video/123456789",
+    "demo_host": "vimeo",
+    "dataset": null,
+    "hf_model": null,
+    "report": null
+   },
+   "has_demo": true,
+   "demo_embeddable": true,
+   "has_dataset": false,
+   "has_hf_model": false,
+   "has_report": false,
+   "checks": {
+    "public_repo": null,
+    "licence": null,
+    "setup_files": null,
+    "report_attached": false
+   },
+   "award": null,
+   "submitted_at": "2026-10-03T10:00:00.000Z",
+   "updated_at": "2026-10-03T10:00:00.000Z"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "schema_version": 1,
+ "generated_at": "2026-11-03T14:47:08Z",
+ "headline": {
+  "registered": 45,
+  "countries": 5,
+  "cantons": 3,
+  "built_before_pct": 48.9
+ },
+ "built_before": {
+  "swiss_pct": 52.2,
+  "intl_pct": 45.5
+ },
+ "countries": [
+  {
+   "name": "Switzerland",
+   "count": 23
+  },
+  {
+   "name": "India",
+   "count": 10
+  },
+  {
+   "name": "Germany",
+   "count": 7
+  },
+  {
+   "name": "Other",
+   "count": 5
+  }
+ ],
+ "cantons": [
+  {
+   "code": "ZH",
+   "count": 12
+  },
+  {
+   "code": "VD",
+   "count": 6
+  },
+  {
+   "code": "TI",
+   "count": 5
+  }
+ ],
+ "job_specialty": [
+  {
+   "name": "Developer",
+   "count": 12
+  },
+  {
+   "name": "Business & product",
+   "count": 10
+  },
+  {
+   "name": "Not given",
+   "count": 7
+  },
+  {
+   "name": "Data science & AI",
+   "count": 6
+  },
+  {
+   "name": "Design",
+   "count": 5
+  },
+  {
+   "name": "Other",
+   "count": 5
+  }
+ ],
+ "channels": [
+  {
+   "name": "Devpost",
+   "count": 22
+  },
+  {
+   "name": "Not given",
+   "count": 7
+  },
+  {
+   "name": "Friend",
+   "count": 6
+  },
+  {
+   "name": "LinkedIn",
+   "count": 5
+  },
+  {
+   "name": "Newsletter",
+   "count": 5
+  }
+ ],
+ "solo_team": {
+  "solo": 29,
+  "team": 16
+ }
+}
